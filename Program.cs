@@ -6,8 +6,8 @@
         var numero2 = 3;
 
         var soma = numero1 + numero2;
-        Console.WriteLine("Bom");
-        Console.WriteLine("Dia");
+        Console.WriteLine("Eita");
+        Console.WriteLine("xcapivaraaa");
         Console.WriteLine("A soma é igual a:" + soma);
     }
 }
